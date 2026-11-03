@@ -2,7 +2,7 @@
 
 This repository contains a collection of hands-on Generative AI projects developed to explore and implement modern AI technologies. It focuses on practical applications of Large Language Models (LLMs), transformer architectures, pretrained models, and generative AI tools.
 
-This Repository is about a hands-on journey from ML fundamentals and Python libraries to Neural Networks, CNNs, RNNs, Transformers, LLMs, AI Agents, MCP, RAG, Vector Databases, Multi-Agent Systems, Fine-Tuning, LoRA, Unsloth, Ollama, and Prompt & Context Engineering, with practical notebooks and projects.
+A hands-on journey from ML fundamentals and Python libraries to Neural Networks, CNNs, RNNs, Transformers, LLMs, AI Agents, MCP, RAG, Vector Databases, Multi-Agent Systems, Fine-Tuning, LoRA, Unsloth, Ollama, and Prompt & Context Engineering, with practical notebooks and projects.
 
 ## Technologies & Tools
 - Python
